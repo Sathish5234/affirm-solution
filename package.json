@@ -1,0 +1,24 @@
+{
+  "name": "sathish",
+  "version": "1.0.0",
+  "data": "Small",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "convert-csv-to-json": "1.3.1",
+    "node-create-csv": "1.0.0",
+    "objects-to-csv": "1.3.6",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
